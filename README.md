@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com/?lines=Ingeniero+en+Inform%C3%A1tica;Socio+fundador+de+Studios+Conari+SpA;Lead+Programmer+%C2%B7+Godot+Engine;Business+Intelligence+%C2%B7+Power+BI;An%C3%A1lisis+de+Datos+y+Toma+de+Decisiones;IA+%C2%B7+Automatizaci%C3%B3n+%C2%B7+MCP&center=true&width=980&height=70&duration=3500&pause=900&color=D4AF37&size=25"
+    src="https://readme-typing-svg.demolab.com/?lines=Ingeniero+en+Inform%C3%A1tica;Socio+fundador+de+Studios+Conari+SpA;Lead+Programmer+%C2%B7+Godot+Engine;Business+Intelligence+%C2%B7+Power+BI;An%C3%A1lisis+de+Datos+y+Toma+de+Decisiones;IA+%C2%B7+Automatizaci%C3%B3n+%C2%B7+MCP&center=true&width=980&height=70&duration=3500&pause=900&color=D4AF37&size=25"
     alt="Presentación de Kevin del Río"
   >
 </p>
@@ -163,10 +163,7 @@ Diseño, modelamiento e implementación de una **plataforma de BI corporativa** 
 
 <div align="center">
 
-<img
-  src="https://skillicons.dev/icons?i=godot,python,git,github,vscode&perline=6"
-  alt="Tecnologías de desarrollo"
->
+<p><img src="https://skillicons.dev/icons?i=godot,python,git,github,vscode&perline=6" alt="Tecnologías de desarrollo"></p>
 
 </div>
 
