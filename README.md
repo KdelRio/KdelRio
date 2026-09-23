@@ -117,15 +117,29 @@ RPG de mazmorras top-down desarrollado íntegramente en **Godot Engine 4.5**. El
 
 </div>
 
-## 🪶 VILU · Studios Conari
+## 🪶 VILU: El Despertar · Studios Conari
 
-Videojuego de aventura 2D top-down, **proyecto original del estudio inspirado en los mitos y leyendas de Chile**, con un trasfondo cultural y social. Cuenta con prototipo jugable completado. Soy responsable de la implementación técnica en **Godot Engine**.
+**Aventura narrativa 3D** para un jugador o **cooperativa para dos personas** (local y en línea), en PC vía Steam. Es una IP original del estudio: un viaje por un **Chile contemporáneo y reconocible** donde los mitos y leyendas de cada región vuelven a manifestarse.
 
-*Parte de la información, narrativa y materiales de producción se mantiene privada durante la etapa actual de desarrollo.*
+Emilia y Benjamín son amigos desde la infancia y recorren el país como mochileros, de norte a sur. Por el camino descubren una capa mitológica oculta y una organización que la aprovecha para capturar seres y apropiarse de saberes. El juego mezcla **exploración, investigación, puzles, combate contextual y progresión de habilidades**. No todo encuentro se resuelve peleando: también se puede proteger, liberar, restaurar o negociar.
+
+| | |
+|---|---|
+| 🎭 **Dupla protagonista** | Emilia (movilidad aérea y combate cercano) y Benjamín (arco, anclajes y mecanismos), con intercambio de personaje y percepción compartida |
+| 🗺️ **Estructura** | Prólogo, 16 capítulos regionales de Arica a Magallanes (Rapa Nui incluida) y epílogo |
+| 🪶 **Cuatro Maestros** | Alicanto, Make-Make, Pillan y Pincoya: cada uno enseña una forma nueva de moverse y de resolver |
+| 🧪 **Build v0.1** | Protagonistas en 3D, cambio de personaje, La Tirana, Yastay y guanaco montable, rescate del Alicanto con desbloqueo de alas, jefe de mina, HUD, menús ES/EN y remapeo para teclado y mando |
+| 🎯 **Próxima meta** | Vertical Slice con las cinco primeras regiones del norte, culminando en un Producto Mínimo Viable |
+
+**Mi rol:** cofundador y **Director Técnico**. Me encargo de la implementación en Godot 4, la arquitectura, los controles, la cámara, el combate, los puzles, la UI, la integración de assets, las builds y el control de versiones (Git LFS).
+
+**Pipeline:** Clip Studio Paint → Blender (retopología, UV, rig) → Godot 4 con shaders toon, agua, lava, niebla y viento.
+
+*La narrativa completa y parte de los materiales de producción se mantienen privados durante el desarrollo.*
 
 ## 🧪 Etapa formativa · Studios Conari SpA
 
-Prototipos internos con los que el estudio construyó su base técnica antes de VILU.
+Prototipos internos con los que el estudio formó su base técnica antes de VILU.
 
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
