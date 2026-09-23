@@ -163,7 +163,18 @@ Diseño, modelamiento e implementación de una **plataforma de BI corporativa** 
 
 <div align="center">
 
-<p><img src="https://skillicons.dev/icons?i=godot,python,git,github,vscode&perline=6" alt="Tecnologías de desarrollo"></p>
+<p><img src="https://skillicons.dev/icons?i=godot,python,js,nodejs,electron,git,github,vscode&perline=8" alt="Tecnologías de desarrollo"></p>
+
+<p>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel">
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+<img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP">
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude">
+<img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT">
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
+<img src="https://img.shields.io/badge/MCP-1D3557?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP">
+</p>
 
 </div>
 
