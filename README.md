@@ -173,7 +173,7 @@ Como los datos de la empresa son confidenciales, **reconstruí el mismo trabajo 
 |---|---|
 | 🗃️ Datos | 8 libros de Excel con reglas de negocio, diccionario y más de 80.000 fórmulas verificadas |
 | 📊 Power BI | Modelo estrella de 25 tablas, 60 medidas DAX y 7 dashboards |
-| 🗺️ Tableau | 5 dashboards con mapas de clientes y cobranza |
+| 🗺️ Tableau | Los mismos 7 dashboards reconstruidos en Tableau, con mapas y campos calculados |
 | 🧾 Presentaciones | 7 decks ejecutivos con análisis 2023 vs 2024 y medidas de acción |
 | ⚙️ Scripts | Generación reproducible en Python y Node.js |
 
