@@ -165,9 +165,21 @@ Diseño, modelamiento e implementación de una **plataforma de BI corporativa** 
 | ✅ **Control de calidad** | Trazabilidad de reclamos, acciones correctivas y tiempos de resolución · formulario de ingreso estandarizado para auditorías |
 | 🖥️ **Activos TI** | Parque computacional con antigüedad, estado y obsolescencia para planificar la renovación |
 
+## 🍊 Magic Foods BI — *De los datos a la decisión.*
+
+Como los datos de la empresa son confidenciales, **reconstruí el mismo trabajo con una empresa ficticia**: Magic Foods S.A., una planta de alimentos frescos en Concepción con clientes en las 16 regiones de Chile. El proyecto cubre el ciclo completo de BI, desde los datos hasta la recomendación a la gerencia.
+
+| Entregable | |
+|---|---|
+| 🗃️ Datos | 8 libros de Excel con reglas de negocio, diccionario y más de 80.000 fórmulas verificadas |
+| 📊 Power BI | Modelo estrella de 25 tablas, 60 medidas DAX y 7 dashboards |
+| 🗺️ Tableau | 5 dashboards con mapas de clientes y cobranza |
+| 🧾 Presentaciones | 7 decks ejecutivos con análisis 2023 vs 2024 y medidas de acción |
+| ⚙️ Scripts | Generación reproducible en Python y Node.js |
+
 <div align="center">
 
-[![Ver portafolio](https://img.shields.io/badge/VER%20PORTAFOLIO-Data%20Analyst-7EC8FF?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=1D3557)](https://github.com/KdelRio/data-analyst-portfolio)
+[![Ver proyecto](https://img.shields.io/badge/VER%20PROYECTO-Magic%20Foods%20BI-7EC8FF?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=1D3557)](https://github.com/KdelRio/Magic-Foods-BI)
 
 </div>
 
@@ -181,6 +193,7 @@ Diseño, modelamiento e implementación de una **plataforma de BI corporativa** 
 
 <p>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau">
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel">
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
 <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP">
@@ -196,7 +209,7 @@ Diseño, modelamiento e implementación de una **plataforma de BI corporativa** 
 
 | Área | Tecnologías y conocimientos |
 |---|---|
-| 📊 **Datos y BI** | Power BI · DAX · Power Query · SAP BusinessObjects · SQL · ETL · modelamiento de datos · Excel avanzado |
+| 📊 **Datos y BI** | Power BI · DAX · Power Query · Tableau · SAP BusinessObjects · SQL · ETL · modelamiento de datos · Excel avanzado |
 | 🎮 **Videojuegos** | Godot Engine 4.5 · GDScript · arquitectura orientada a datos · máquinas de estado · IA de enemigos |
 | 💻 **Software** | Python · arquitectura de software · estándares y calidad de software · control de versiones · pipeline de producción |
 | 🤖 **IA y automatización** | Claude · ChatGPT · n8n · Model Context Protocol (MCP) · creación de skills y procedimientos para agentes de IA |
@@ -232,7 +245,7 @@ Diseño, modelamiento e implementación de una **plataforma de BI corporativa** 
 
 - 🎮 Desarrollo de **VILU** y consolidación de **Studios Conari SpA**.
 - 🏰 Nuevas versiones de **Dungeon Ascent**.
-- 📊 Construcción de un **portafolio público de análisis de datos** con datasets abiertos.
+- 📊 Ampliación de **[Magic Foods BI](https://github.com/KdelRio/Magic-Foods-BI)**, mi portafolio público de análisis de datos.
 - 🤖 Automatización de procesos con **IA, n8n y MCP**.
 
 ---
